@@ -1,0 +1,9 @@
+{
+  "name": "my-custom-action",
+  "version": "1.0.0",
+  "description": "This is a sample action that demonstrates metadata syntax and inputs.",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.9.0"
+  }
+}
