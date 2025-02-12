@@ -1,4 +1,3 @@
-# Step 1: Use a base image with Node.js installed
 FROM node:16-slim
 
 
