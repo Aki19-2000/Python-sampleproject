@@ -1,6 +1,6 @@
 name: 'My Docker Action'
 description: 'A custom action that runs inside a Docker container.'
-author: 'Your Name'
+author: 'Akshaya M'
 inputs:
   input1:
     description: 'First input'
