@@ -25,6 +25,4 @@ jobs:
       - name: Run Docker action with environment variables
         id: run-my-docker-action
         uses: ./
-        with:
-          input1: 'Hello'
-          input2: 'World2'
+        
